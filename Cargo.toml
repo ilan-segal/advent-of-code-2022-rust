@@ -7,4 +7,5 @@ members = [
     "d02-rps",
     "d03-rucksack",
     "d04-cleanup",
+    "d05-stacks",
 ]
