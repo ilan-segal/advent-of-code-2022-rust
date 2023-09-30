@@ -8,4 +8,5 @@ members = [
     "d03-rucksack",
     "d04-cleanup",
     "d05-stacks",
+    "d06-tuning",
 ]
